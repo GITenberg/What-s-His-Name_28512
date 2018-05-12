@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1555
     wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28512#What-s-His-Name
 gutenberg_issued: '2009-04-06'
 gutenberg_type: Text
 identifiers:
